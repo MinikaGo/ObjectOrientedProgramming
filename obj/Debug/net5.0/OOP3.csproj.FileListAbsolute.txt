@@ -1,0 +1,16 @@
+C:\Users\umit.sinanoglu\source\repos\Metotlar\OOP3\bin\Debug\net5.0\OOP3.exe
+C:\Users\umit.sinanoglu\source\repos\Metotlar\OOP3\bin\Debug\net5.0\OOP3.deps.json
+C:\Users\umit.sinanoglu\source\repos\Metotlar\OOP3\bin\Debug\net5.0\OOP3.runtimeconfig.json
+C:\Users\umit.sinanoglu\source\repos\Metotlar\OOP3\bin\Debug\net5.0\OOP3.runtimeconfig.dev.json
+C:\Users\umit.sinanoglu\source\repos\Metotlar\OOP3\bin\Debug\net5.0\OOP3.dll
+C:\Users\umit.sinanoglu\source\repos\Metotlar\OOP3\bin\Debug\net5.0\ref\OOP3.dll
+C:\Users\umit.sinanoglu\source\repos\Metotlar\OOP3\bin\Debug\net5.0\OOP3.pdb
+C:\Users\umit.sinanoglu\source\repos\Metotlar\OOP3\obj\Debug\net5.0\OOP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit.sinanoglu\source\repos\Metotlar\OOP3\obj\Debug\net5.0\OOP3.AssemblyInfoInputs.cache
+C:\Users\umit.sinanoglu\source\repos\Metotlar\OOP3\obj\Debug\net5.0\OOP3.AssemblyInfo.cs
+C:\Users\umit.sinanoglu\source\repos\Metotlar\OOP3\obj\Debug\net5.0\OOP3.csproj.CoreCompileInputs.cache
+C:\Users\umit.sinanoglu\source\repos\Metotlar\OOP3\obj\Debug\net5.0\OOP3.dll
+C:\Users\umit.sinanoglu\source\repos\Metotlar\OOP3\obj\Debug\net5.0\ref\OOP3.dll
+C:\Users\umit.sinanoglu\source\repos\Metotlar\OOP3\obj\Debug\net5.0\OOP3.pdb
+C:\Users\umit.sinanoglu\source\repos\Metotlar\OOP3\obj\Debug\net5.0\OOP3.genruntimeconfig.cache
+C:\Users\umit.sinanoglu\source\repos\Metotlar\OOP3\obj\Debug\net5.0\OOP3.csproj.AssemblyReference.cache
