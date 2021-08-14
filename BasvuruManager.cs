@@ -5,14 +5,18 @@ namespace OOP3
     class BasvuruManager
     {
         //Method injection (soyut halleri var, somut hallerini enjekte ediyoruz.)
-        public void BasvuruYap(IKrediManager krediManager, ILoggerService loggerService)
+        public void BasvuruYap(IKrediManager krediManager, List<ILoggerService> loggerServices)
         {
             //Başvuran bilgileri değerlendirme
             //
             //Kredi türü seç
             //Kredi türü hesapla
             krediManager.Hesapla();
-            loggerService.Log();
+            foreach (var loggerService in loggerServices)
+            {
+                loggerService.Log();
+            }
+            
 
         }
         public void KrediOnBilgilendirmesiYap(List<IKrediManager> krediler)

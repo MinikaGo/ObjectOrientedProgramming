@@ -6,7 +6,7 @@ namespace OOP3
     {
         public void Log()
         {
-            Console.WriteLine("SMS Gönderildi");
+            Console.WriteLine("Müşteriye SMS Gönderildi");
         }
     }
 }
